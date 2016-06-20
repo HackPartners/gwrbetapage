@@ -1,0 +1,3 @@
+//<![CDATA[
+try {sessionCamRecorder.initialise({"A":false,"B":7,"C":"","D":true,"E":[],"G":false,"H":"3ktuqu1cfqjvpuyemacb3s1p","I":true,"J":"","K":null,"L":0,"M":false,"N":"","O":"Mac OS X","P":"","Q":"Apple Macintosh","R":"Desktop/Laptop","S":"f2ef1884-50cb-4056-a6b8-e81b9730b769","T":636020192190000000,"U":"74b222e5-5b08-4cdf-9589-ce75a69b8467","AA":"a01eaa03-3268-e511-95f9-12313928a8b9","AB":"00000000-0000-0000-0000-000000000000","AC":null,"AE":1,"AS":true,"AT":250,"AU":"","AV":1,"AW":"","AX":false});} catch(e) {sessionCamRecorder.log('init failed (' + e + ')');}
+//]]>
